@@ -1,0 +1,120 @@
+https://api.quabbly.live/v1/customer/board/62796a117246e40001bce6c7/records
+method get
+CDA
+{
+  "status": "SUCCESS",
+  "data": [
+    {
+      "id": "6315962d384e2700016e0d4b",
+      "createdTime": "2022-09-05T06:24:45.913+00:00",
+      "lastUpdatedTime": null,
+      "fields": null,
+      "data": {
+        "62796ab0e0dc3400018b5bf7": "CUS1-4",
+        "62796aa17246e40001bce6ca": "CDA-8",
+        "62796a33e0dc3400018b5bf0": "jnfyjnyfjn",
+        "62796a457246e40001bce6c9": "mjnygfjmn",
+        "62796a70c4dd930001a7df56": "jmny",
+        "62796a90833b4d0001c508ba": true
+      }
+    },
+    {
+      "id": "62f111228983ad0001e9b426",
+      "createdTime": "2022-08-08T13:35:30.214+00:00",
+      "lastUpdatedTime": null,
+      "fields": null,
+      "data": {
+        "62796ab0e0dc3400018b5bf7": "CUS1-17",
+        "62796aa17246e40001bce6ca": "CDA-7",
+        "62796a33e0dc3400018b5bf0": "ascda",
+        "62796a457246e40001bce6c9": "ascfa",
+        "62796a70c4dd930001a7df56": "asfca",
+        "62796a90833b4d0001c508ba": true
+      }
+    },
+    {
+      "id": "62f110eb8983ad0001e9b425",
+      "createdTime": "2022-08-08T13:34:35.225+00:00",
+      "lastUpdatedTime": null,
+      "fields": null,
+      "data": {
+        "62796ab0e0dc3400018b5bf7": "CUS1-17",
+        "62796aa17246e40001bce6ca": "CDA-6",
+        "62796a33e0dc3400018b5bf0": "ada",
+        "62796a457246e40001bce6c9": "efwef",
+        "62796a70c4dd930001a7df56": "efW",
+        "62796a90833b4d0001c508ba": true
+      }
+    },
+    {
+      "id": "62ebd2349e7fc60001b6b944",
+      "createdTime": "2022-08-04T14:05:40.355+00:00",
+      "lastUpdatedTime": null,
+      "fields": null,
+      "data": {
+        "62796ab0e0dc3400018b5bf7": "CUS1-4",
+        "62796aa17246e40001bce6ca": "CDA-5",
+        "62796a33e0dc3400018b5bf0": "",
+        "62796a457246e40001bce6c9": "asf",
+        "62796a70c4dd930001a7df56": "ad",
+        "62796a90833b4d0001c508ba": true
+      }
+    },
+    {
+      "id": "62c45ec419fc3a000111e434",
+      "createdTime": "2022-07-05T15:54:44.301+00:00",
+      "lastUpdatedTime": null,
+      "fields": null,
+      "data": {
+        "62796ab0e0dc3400018b5bf7": "CUS1-15",
+        "62796aa17246e40001bce6ca": "CDA-4",
+        "62796a33e0dc3400018b5bf0": "",
+        "62796a457246e40001bce6c9": "78 adetoro",
+        "62796a70c4dd930001a7df56": "give my sister",
+        "62796a90833b4d0001c508ba": false
+      }
+    },
+    {
+      "id": "62c45e8c19fc3a000111e433",
+      "createdTime": "2022-07-05T15:53:48.784+00:00",
+      "lastUpdatedTime": null,
+      "fields": null,
+      "data": {
+        "62796ab0e0dc3400018b5bf7": "CUS1-15",
+        "62796aa17246e40001bce6ca": "CDA-3",
+        "62796a33e0dc3400018b5bf0": "Thank God",
+        "62796a457246e40001bce6c9": "66 Adetoro Adelaja",
+        "62796a70c4dd930001a7df56": "",
+        "62796a90833b4d0001c508ba": true
+      }
+    },
+    {
+      "id": "62a8a287a5fc07000189d5e0",
+      "createdTime": "2022-06-14T15:00:23.205+00:00",
+      "lastUpdatedTime": null,
+      "fields": null,
+      "data": {
+        "62796ab0e0dc3400018b5bf7": "CUS1-4",
+        "62796aa17246e40001bce6ca": "CDA-2",
+        "62796a33e0dc3400018b5bf0": "",
+        "62796a457246e40001bce6c9": "7201 Frankford Avenue",
+        "62796a70c4dd930001a7df56": "",
+        "62796a90833b4d0001c508ba": false
+      }
+    },
+    {
+      "id": "62a3323c64e64c00016feece",
+      "createdTime": "2022-06-10T11:59:56.692+00:00",
+      "lastUpdatedTime": null,
+      "fields": null,
+      "data": {
+        "62796ab0e0dc3400018b5bf7": "CUS1-4",
+        "62796aa17246e40001bce6ca": "CDA-1",
+        "62796a33e0dc3400018b5bf0": "",
+        "62796a457246e40001bce6c9": "4200 Davenport St Washington DC 20007",
+        "62796a70c4dd930001a7df56": "",
+        "62796a90833b4d0001c508ba": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+      "id": "62c433208983ad0001e9b2d7",
+      "createdTime": "2022-07-05T12:48:32.328+00:00",
+      "lastUpdatedTime": null,
+      "fields": null,
+      "data": {
+        "62796900833b4d0001c508b7": "Round Cake",
+        "6279697f833b4d0001c508b9": "2022-07-05 12:48:32",
+        "627972d47246e40001bce6da": "2022-07-05 12:48:32",
+        "627969107246e40001bce6c4": "2",
+        "627969637246e40001bce6c5": "CUS1-9",
+        "6279693dc4dd930001a7df51": "21:00:00",
+        "6279699ee0dc3400018b5bed": "Pick Up  ",
+        "627967f77246e40001bce6c3": "Standard",
+        "62796924e0dc3400018b5bec": "2022-08-31",
+        "62796c6fe0dc3400018b5bfd": {
+          "parentRecordId": "629608a0e0dc3400018b6f26",
+          "parentFieldId": "62797c4d7246e40001bce6ff",
+          "topmostRecordId": "629608a0e0dc3400018b6f26",
+          "topmostFieldId": "62797c4d7246e40001bce6ff",
+          "topmostValue": "VBI-1",
+          "type": "ltr"
+        },
+        "627967bf7246e40001bce6c2": "ORD-38",
+        "627978127246e40001bce6e2": {
+          "parentRecordId": "629608a0e0dc3400018b6f26",
+          "parentFieldId": "62797c4d7246e40001bce70c",
+          "topmostRecordId": "629608a0e0dc3400018b6f26",
+          "topmostFieldId": "62797c4d7246e40001bce70c",
+          "topmostValue": "",
+          "type": "ltr"
+        },
+        "627972bfc4dd930001a7df61": {
+          "parentRecordId": "629608a0e0dc3400018b6f26",
+          "parentFieldId": "62797c4d7246e40001bce709",
+          "topmostRecordId": "629608a0e0dc3400018b6f26",
+          "topmostFieldId": "62797c4d7246e40001bce709",
+          "topmostValue": "<p>Thank you for your order request! We've sent the details to hardeynike. They will reach out with next steps.</p>\n        <p><br></p><p>If you haven't already paid, make sure to confirm their preferred payment method and complete any necessary payments to receive your order.</p>\n        <p><br></p><p>To contact hardeynike, contact them at:</p>\n        <ul><li>Email: bankolesamuel4202@gmail.com</li></ul>\n        <ul><li> Phone: 12025550163 </li></ul>\n        <p><br></p><p><b>THIS IS AN ORDER <u><i>REQUEST </i></u> - YOUR ORDER IS <u><i>NOT </i></u> COMPLETE UNTIL ACCEPTED AND CONFIRMED BY hardeynike. FINAL PRICING MAY DIFFER BASED ON YOUR CONVERSATION WITH THEM.</b></p><p><br></p>\n        <p>The hardeynike Team</p>",
+          "type": "ltr"
+        },
+        "627968e0c4dd930001a7df4d": "11-20",
+        "62797309c4dd930001a7df62": "Received",
+        "627969b37246e40001bce6c6": "2022-08-31",
+        "627977e1833b4d0001c508d2": 8
+      }
+    }

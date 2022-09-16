@@ -1,0 +1,76 @@
+{
+    "errors": [
+        {
+            "message": "{"status" : "FAILED_VALIDATION" , "data" : [ { "field" : "email" , "message" : "please choose a different value. this one already exists" , "rejectedValue" : "raveena.sics@gmail.com"}]}",
+            "locations": []
+        }
+    ],
+    "data": {
+        "user": null
+    }
+}
+
+{"user":{"id":null,"__typename":"User"}}
+
+ 627978537246e40001bce6e5 y
+ https://api.quabbly.live/v1/tm/board/62797c4d7246e40001bce6fe/fields
+ {"status":"SUCCESS","board":{"id":"6279531fc4dd930001a7df09","boardSecret":{"name":"Cake Features","description":null,"boardSize":"medium","boardFunctions":null,"autoNumberCount":null,"presetFields":null,"parentBoard":null,"calendarSettings":{"descriptionField":null,"dateField":null,"startTimeField":null,"stopTimeField":null,"recurring":false}},"createdBy":"Odun Akinbile","uniqueKey":"CF","createdTime":1652118303876,"lastUpdatedTime":null,"boardGroupId":null,"lifetimeRecordCount":168,"recordCount":null,"botCount":null,"userCount":null,"fieldCount":null,"disableCreate":false,"showLimitWarning":false,"parentBoard":null,"readonly":false,"defaultView":null,"icon":"uil-apps","colour":"#ffb703","users":null,"enableAdvanceForms":false},"role":{"id":"6279823d833b4d0001c508e7","roleSecret":{"name":"Vendor","disableCreateRecord":false,"disableUpdateRecord":false,"excludedFields":[],"excludedFieldsForUpdate":[],"excludedViews":null,"enableDeleteRecord":true,"enableDeleteComment":false,"matchingValues":[],"viewOnlyRecordsCreatedByUser":false,"viewOnlyRecordsWhereUserMatchesField":null,"manageBots":false,"manageFields":false,"manageForms":false,"manageUsers":false,"manageBoard":false,"manageBilling":false},"createdTime":1652130365535,"lastUpdatedTime":null,"lastUpdatedBy":null,"enabled":true},"recordList":[{"id":"62f64b549e7fc60001b6b98a","recordUniqueKey":"CF-168","createdTime":1660308308525,"lastUpdatedTime":null,"lastUpdatedBy":null,"userName":null,"comments":[],"data":{"627966bd7246e40001bce6bd":23,"62795407c4dd930001a7df0d":"Active","627953a3833b4d0001c50875":"Flavour","627953c67246e40001bce67a":"treat","627965ace0dc3400018b5be2":["Standard Cake"],"627965d6833b4d0001c508ad":["Cake Flavour"],"627953d3e0dc3400018b5bbd":null,"62795355833b4d0001c50870":"CF-168","6279537be0dc3400018b5bba":"VBI-14"}},{"id":"62f6449d19fc3a000111e6b7","recordUniqueKey":"CF-166","createdTime":1660306589538,"lastUpdatedTime":null,"lastUpdatedBy":null,"userName":null,"comments":[],"data":{"627966bd7246e40001bce6bd":"0","62795407c4dd930001a7df0d":"Active","627953a3833b4d0001c50875":"Flavour","627953c67246e40001bce67a":"Raspberries","627953e6833b4d0001c5087a":null,"627965ace0dc3400018b5be2":["Standard Cake","Custom Cake"],"627965d6833b4d0001c508ad":["Cake Flavour","Icing Flavour","Filling Flavour"],"627966d8e0dc3400018b5be7":"Yes","627953d3e0dc3400018b5bbd":[{"filename":"raspberries.png","size":24128,"id":"62798df6d9f2bc00117d8e22","created":"2022-05-09T21:56:06.835Z","mimetype":"image/png","url":"https://s3.eu-west-2.amazonaws.com/edge.world/9f2fa5dc-a21b-4554-bc86-e6fa14fd8d04/2022-05-09T21%3A56%3A06.632Z-raspberries.png"}],"62795355833b4d0001c50870":"CF-166","6279537be0dc3400018b5bba":"VBI-14"}},{"id":"62f64494384e2700016e0ce3","recordUniqueKey":"CF-165","createdTime":1660306580596,"lastUpdatedTime":null,"lastUpdatedBy":null,"userName":null,"comments":[],"data":{"627966bd7246e40001bce6bd":"0","62795407c4dd930001a7df0d":"Active","627953a3833b4d0001c50875":"Flavour","627953c67246e40001bce67a":"Lemon","627953e6833b4d0001c5087a":null,"627965ace0dc3400018b5be2":["Standard Cake","Custom Cake"],"627965d6833b4d0001c508ad":["Cake Flavour","Icing Flavour","Filling Flavour"],"627966d8e0dc3400018b5be7":"Yes","627953d3e0dc3400018b5bbd":[{"filename":"lemon.png","size":1550,"id":"62798d78fb77480013aa36ab","created":"2022-05-09T21:54:00.042Z","mimetype":"image/png","url":"https://s3.eu-west-2.amazonaws.com/edge.world/9f2fa5dc-a21b-4554-bc86-e6fa14fd8d04/2022-05-09T21%3A53%3A59.879Z-lemon.png"}],"62795355833b4d0001c50870":"CF-165","6279537be0dc3400018b5bba":"VBI-14"}},{"id":"62f6449219fc3a000111e6b4","recordUniqueKey":"CF-164","createdTime":1660306578781,"lastUpdatedTime":null,"lastUpdatedBy":null,"userName":null,"comments":[],"data":{"627966bd7246e40001bce6bd":"0","62795407c4dd930001a7df0d":"Active","627953a3833b4d0001c50875":"Flavour","627953c67246e40001bce67a":"Strawberry","627953e6833b4d0001c5087a":null,"627965ace0dc3400018b5be2":["Standard Cake","Custom Cake"],"627965d6833b4d0001c508ad":["Cake Flavour","Icing Flavour","Filling Flavour"],"627966d8e0dc3400018b5be7":"Yes","627953d3e0dc3400018b5bbd":[{"filename":"strawberry.png","size":36526,"id":"62798d0df79a5d0012d18a2a","created":"2022-05-09T21:52:13.616Z","mimetype":"image/png","url":"https://s3.eu-west-2.amazonaws.com/edge.world/9f2fa5dc-a21b-4554-bc86-e6fa14fd8d04/2022-05-09T21%3A52%3A13.416Z-strawberry.png"}],"62795355833b4d0001c50870":"CF-164","6279537be0dc3400018b5bba":"VBI-14"}},{"id":"62f6449119fc3a000111e6b3","recordUniqueKey":"CF-163","createdTime":1660306577701,"lastUpdatedTime":null,"lastUpdatedBy":null,"userName":null,"comments":[],"data":{"627966bd7246e40001bce6bd":"0","62795407c4dd930001a7df0d":"Active","627953a3833b4d0001c50875":"Flavour","627953c67246e40001bce67a":"Chocolate","627953e6833b4d0001c5087a":null,"627965ace0dc3400018b5be2":["Standard Cake","Custom Cake"],"627965d6833b4d0001c508ad":["Cake Flavour","Icing Flavour","Filling Flavour"],"627966d8e0dc3400018b5be7":"Yes","627953d3e0dc3400018b5bbd":[{"filename":"chocolate-bar.png","size":8285,"id":"62798c9bf79a5d0012d18a29","created":"2022-05-09T21:50:19.010Z","mimetype":"image/png","url":"https://s3.eu-west-2.amazonaws.com/edge.world/9f2fa5dc-a21b-4554-bc86-e6fa14fd8d04/2022-05-09T21%3A50%3A18.819Z-chocolate-bar.png"}],"62795355833b4d0001c50870":"CF-163","6279537be0dc3400018b5bba":"VBI-14"}},{"id":"62f6448619fc3a000111e6b1","recordUniqueKey":"CF-160","createdTime":1660306565975,"lastUpdatedTime":null,"lastUpdatedBy":null,"userName":null,"comments":[],"data":{"627966bd7246e40001bce6bd":"0","62795407c4dd930001a7df0d":"Active","627953a3833b4d0001c50875":"Flavour","627953c67246e40001bce67a":"Vanilla","627953e6833b4d0001c5087a":null,"627965ace0dc3400018b5be2":["Standard Cake","Custom Cake"],"627965d6833b4d0001c508ad":["Cake Flavour","Icing Flavour","Filling Flavour"],"627966d8e0dc3400018b5be7":"Yes","627953d3e0dc3400018b5bbd":[{"filename":"vanilla.png","size":29231,"id":"62798c0f343d7a0012c31e1a","created":"2022-05-09T21:47:59.959Z","mimetype":"image/png","url":"https://s3.eu-west-2.amazonaws.com/edge.world/9f2fa5dc-a21b-4554-bc86-e6fa14fd8d04/2022-05-09T21%3A47%3A59.743Z-vanilla.png"}],"62795355833b4d0001c50870":"CF-160","6279537be0dc3400018b5bba":"VBI-14"}}],"recordFilterInputDTO":{"conditions":[{"predicate":{"fieldId":"627953a3833b4d0001c50875","relationalOperator":"is","value":"Flavour","startDate":null,"endDate":null,"dateTime":false},"logicalOperator":null},{"predicate":{"fieldId":"6279537be0dc3400018b5bba","relationalOperator":"is","value":"VBI-14","startDate":null,"endDate":null,"dateTime":false},"logicalOperator":"AND"}],"groupedBy":null,"description":null,"pinnedBy":null},"fieldWithValues":null,"message":null,"fields":null}
+response
+
+"_id" : ObjectId("62797c4d7246e40001bce6fe"),
+"__v" : 0
+
+44
+https://u16724674.ct.sendgrid.net/ls/click?upn=5Cdc6T9clzdtD88mmqEtJL5UzTFjZtsEKAbHbdhLuBtva7VPYBdN0oBtuN5StOcUaOBiMSFD95HTCs2FvZ7dz9c9MqXAGNJVec2gMc7bk3R4MtBkkMIrMtsOifAboHKcig5d_RqAMu0IvbLLpPT0uzPVvLaBMAJ1jwhfWkaRQ3xX2gJGEzut-2BkjVNAu7dyOGmGZNvxiP8gYL9XIwCydBmXRHZHCwaJ9hfGZIXwG5IPQ8grgWfRE3omoDPvVZrH9xLPqbhGc2l2xc4K4dRwj-2FW6A2WgMcFd4V-2B9nN7gbJDSOK76wkHwiDVrCsGZQsDgub1k3HqreQ6s6rgkTCTtQq1vx-2FySQ-3D-3D
+
+
+
+/customer/auth/6294a9e114160b4028c96b91/register
+/api6/customer/auth/6294a9e114160b4028c96b91/activate/f2af152b3dff84573e552cd68546b0f3795778c4
+
+/customer/auth/:appId/login
+
+http://13.234.177.61/project/sweettreat/admin/reset-password?token={{token}}
+http://13.234.177.61/project/sweettreat/admin/account/new-password?token={{token}}
+
+
+my findings
+https://api.quabbly.live/v1/customer/board/62797c4d7246e40001bce6fe/records
+https://api.quabbly.live/v1/customer/board/627967acc4dd930001a7df4a/records
+https://api.quabbly.live/v1/customer/board/62949ebae0dc3400018b6ebf/records
+https://api.quabbly.live/v1/customer/board/62797c4d7246e40001bce6fe/search
+https://api.quabbly.live/v1/customer/board/6279531fc4dd930001a7df09/records
+https://api.quabbly.live/v1/customer/upload_files 
+request
+form data
+name files
+response
+{
+  "status": "SUCCESS",
+  "data": [
+    {
+      "filename": "flower.png",
+      "size": 3274,
+      "id": "62fd31795c6b300019e1be9c",
+      "created": "2022-08-17T18:20:41.458Z",
+      "mimetype": "image/png",
+      "url": "https://s3.eu-west-2.amazonaws.com/edge.world/9f2fa5dc-a21b-4554-bc86-e6fa14fd8d04/2022-08-17T18%3A20%3A41.073Z-flower.png"
+    }
+  ]
+}
+admin
+https://api.quabbly.live/v1/tm/board/6294a9e0e0dc3400018b6ed3/fields
+https://api.quabbly.live/v1/board/6294a9e0e0dc3400018b6ed3
+https://api.quabbly.live/v1/board/62797c4d7246e40001bce6fe
+https://api.quabbly.live/v1/tm/board/62797344c4dd930001a7df63/fields
+https://api.quabbly.live/v1/tm/board/62796a117246e40001bce6c7/fields
+
+9f2fa5dc-a21b-4554-bc86-e6fa14fd8d04
+
+x-env-state
+x-org-id
+
+
+
+
+

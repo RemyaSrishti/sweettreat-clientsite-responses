@@ -1,0 +1,64 @@
+https://api.quabbly.live/v1/customer/board/62949ebae0dc3400018b6ebf/records
+method get
+NOT
+{
+  "status": "SUCCESS",
+  "data": [
+    {
+      "id": "62a89ef732748a000106d6c8",
+      "createdTime": "2022-06-14T14:45:11.617+00:00",
+      "lastUpdatedTime": null,
+      "fields": null,
+      "data": {
+        "6296c196c4dd930001a80014": "ORD-3",
+        "6296c1f5833b4d0001c51db8": "Rejected",
+        "6296c17ce0dc3400018b6f3e": "CUS1-4",
+        "6296c20f833b4d0001c51db9": "We will contact you in 2 days, thanks",
+        "6296c161e0dc3400018b6f3d": null,
+        "629d600c64e64c00016fee82": "VBI-1"
+      }
+    },
+    {
+      "id": "629e8377e77dd6000191259f",
+      "createdTime": "2022-06-06T22:45:11.901+00:00",
+      "lastUpdatedTime": null,
+      "fields": null,
+      "data": {
+        "6296c196c4dd930001a80014": "ORD-5",
+        "6296c1f5833b4d0001c51db8": "Rejected",
+        "6296c17ce0dc3400018b6f3e": "CUS1-4",
+        "6296c20f833b4d0001c51db9": "We’re sorry but we’re unable to fulfill your request. We work hard to ensure we’re able to provide all our customers with the best possible experience. That means taking into consideration the time, materials and expertise needed to fulfill the requests. Unfortunately, this wasn’t something that we could do for you this time. If you need to request a refund for a deposit already paid, feel free to contact me or request it through your payment system if you used a card. Feel free to reach out with any other questions. We look forward to baking for you in the future.",
+        "6296c161e0dc3400018b6f3d": null,
+        "629d600c64e64c00016fee82": "VBI-1"
+      }
+    },
+    {
+      "id": "629e659ea5fc07000189d573",
+      "createdTime": "2022-06-06T20:37:50.256+00:00",
+      "lastUpdatedTime": null,
+      "fields": null,
+      "data": {
+        "6296c196c4dd930001a80014": "ORD-5",
+        "6296c1f5833b4d0001c51db8": "Rejected",
+        "6296c17ce0dc3400018b6f3e": "CUS1-4",
+        "6296c20f833b4d0001c51db9": "We’re sorry but we’re unable to fulfill your request. We work hard to ensure we’re able to provide all our customers with the best possible experience. That means taking into consideration the time, materials and expertise needed to fulfill the requests. Unfortunately, this wasn’t something that we could do for you this time. \n\nIf you need to request a refund for a deposit already paid, feel free to contact me or request it through your payment system if you used a card. \n\nFeel free to reach out with any other questions. We look forward to baking for you in the future.",
+        "6296c161e0dc3400018b6f3d": null,
+        "629d600c64e64c00016fee82": "VBI-1"
+      }
+    },
+    {
+      "id": "629d859e64e64c00016fee83",
+      "createdTime": "2022-06-06T04:42:06.379+00:00",
+      "lastUpdatedTime": "2022-06-06T17:16:42.248+00:00",
+      "fields": null,
+      "data": {
+        "6296c196c4dd930001a80014": "ORD-4",
+        "6296c1f5833b4d0001c51db8": "Rejected",
+        "6296c17ce0dc3400018b6f3e": "CUS1-4",
+        "6296c20f833b4d0001c51db9": "We’re sorry but we’re unable to fulfill your request. We work hard to ensure we’re able to provide all our customers with the best possible experience. That means taking into consideration the time, materials and expertise needed to fulfill the requests. Unfortunately, this wasn’t something that we could do for you this time. \n\nIf you need to request a refund for a deposit already paid, feel free to contact me or request it through your payment system if you used a card. \n\nFeel free to reach out with any other questions. We look forward to baking for you in the future.",
+        "6296c161e0dc3400018b6f3d": "https://s3.eu-west-2.amazonaws.com/edge.world/a0dab648-d9bd-42cd-8275-8ba2bad54e29/2022-05-28T13%3A27%3A36.796Z-example-1.png",
+        "629d600c64e64c00016fee82": "VBI-1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+save  record .to check null update
+{
+  "boardId": "62797c4d7246e40001bce6fe",
+  "recordId": "62e239088983ad0001e9b3e4",
+  "metadata": [
+    {
+      "fieldId": "62797c4d7246e40001bce700",
+      "value": "Mukunds Cakes"
+    },
+    {
+      "fieldId": "62797c4d7246e40001bce702",
+      "value": null
+    },
+    {
+      "fieldId": "62797c4d7246e40001bce703",
+      "value": "mukundar.sics@gmail.com"
+    },
+    {
+      "fieldId": "62797c4d7246e40001bce704",
+      "value": [
+        {
+          "id": "62e238292fa04d00126249f3",
+          "url": "https://s3.eu-west-2.amazonaws.com/edge.world/9f2fa5dc-a21b-4554-bc86-e6fa14fd8d04/2022-07-28T07%3A18%3A01.782Z-My%20Photo.jpg",
+          "name": "my photo.jpg",
+          "type": "image/jpeg",
+          "size": 52231
+        }
+      ]
+    },
+    {
+      "fieldId": "62797c4d7246e40001bce705",
+      "value": [
+        {
+          "id": "62eb63d65c6b300019e1be6a",
+          "url": "https://s3.eu-west-2.amazonaws.com/edge.world/9f2fa5dc-a21b-4554-bc86-e6fa14fd8d04/2022-08-04T06%3A14%3A45.874Z-photo-1526547541286-73a7aaa08f2a.jpg",
+          "name": "photo-1526547541286-73a7aaa08f2a.jpg",
+          "type": "image/jpeg",
+          "size": 207587
+        }
+      ]
+    },
+    {
+      "fieldId": "62797c4d7246e40001bce701",
+      "value": "Mukunds"
+    },
+    {
+      "fieldId": "62797c4d7246e40001bce710",
+      "value": "Mukund"
+    },
+    {
+      "fieldId": "62797c4d7246e40001bce711",
+      "value": "A.R"
+    },
+    {
+      "fieldId": "62797c4d7246e40001bce70d",
+      "value": "Yes"
+    }
+  ]
+}
+
+
+user payload
+{
+  "firstname": "Mukund",
+  "lastname": "A.R",
+  "roles": [
+    "ADMIN"
+  ]
+}
+
+
+filter payload
+[
+  {
+    "predicate": {
+      "fieldId": "627975127246e40001bce6df",
+      "relationalOperator": "contains",
+      "value": "ORD-43"
+    }
+  },
+  {
+    "predicate": {
+      "fieldId": "627974a5e0dc3400018b5c12",
+      "relationalOperator": "is",
+      "value": "VBI-8"
+    },
+    "logicalOperator": "AND"
+  },
+  {
+    "predicate": {
+      "fieldId": "6279747c833b4d0001c508cf",
+      "relationalOperator": "is",
+      "value": "Icing"
+    },
+    "logicalOperator": "AND"
+  },
+  {
+    "predicate": {
+      "fieldId": "627974907246e40001bce6db",
+      "relationalOperator": "is",
+      "value": "CUS1-17"
+    },
+    "logicalOperator": "AND"
+  }
+]
+ aboves response
+ {"status":"SUCCESS","board":{"id":"62797344c4dd930001a7df63","boardSecret":{"name":"Order Item","description":null,"boardSize":"medium","boardFunctions":null,"autoNumberCount":null,"presetFields":null,"parentBoard":null,"calendarSettings":{"descriptionField":null,"dateField":null,"startTimeField":null,"stopTimeField":null,"recurring":false}},"createdBy":"Odun Akinbile","uniqueKey":"OI","createdTime":1652126532946,"lastUpdatedTime":null,"boardGroupId":null,"lifetimeRecordCount":178,"recordCount":null,"botCount":null,"userCount":null,"fieldCount":null,"disableCreate":false,"showLimitWarning":false,"parentBoard":null,"readonly":false,"defaultView":null,"icon":"uil-apps","colour":"#ffb703","users":null,"enableAdvanceForms":false},"role":{"id":null,"roleSecret":{"name":null,"disableCreateRecord":false,"disableUpdateRecord":false,"excludedFields":[],"excludedFieldsForUpdate":null,"excludedViews":null,"enableDeleteRecord":true,"enableDeleteComment":true,"matchingValues":null,"viewOnlyRecordsCreatedByUser":false,"viewOnlyRecordsWhereUserMatchesField":null,"manageBots":false,"manageFields":false,"manageForms":false,"manageUsers":false,"manageBoard":false,"manageBilling":false},"createdTime":null,"lastUpdatedTime":null,"lastUpdatedBy":null,"enabled":false},"recordList":[],"recordFilterInputDTO":{"conditions":[{"predicate":{"fieldId":"627975127246e40001bce6df","relationalOperator":"contains","value":"ORD-43","startDate":null,"endDate":null,"dateTime":false},"logicalOperator":null},{"predicate":{"fieldId":"627974a5e0dc3400018b5c12","relationalOperator":"is","value":"VBI-8","startDate":null,"endDate":null,"dateTime":false},"logicalOperator":"AND"},{"predicate":{"fieldId":"6279747c833b4d0001c508cf","relationalOperator":"is","value":"Icing","startDate":null,"endDate":null,"dateTime":false},"logicalOperator":"AND"},{"predicate":{"fieldId":"627974907246e40001bce6db","relationalOperator":"is","value":"CUS1-17","startDate":null,"endDate":null,"dateTime":false},"logicalOperator":"AND"}],"groupedBy":null,"description":null,"pinnedBy":null},"fieldWithValues":null,"message":null,"fields":null}
+ 
+ 
+ 
+ 

@@ -1,0 +1,16 @@
+{
+	"conditions": [{
+		"predicate": {
+			"fieldId": "627953a3833b4d0001c50875",
+			"relationalOperator": "is",
+			"value": "Flavour"
+		}
+	}, {
+		"predicate": {
+			"fieldId": "6279537be0dc3400018b5bba",
+			"relationalOperator": "is",
+			"value": "VBI-14"
+		},
+		"logicalOperator": "AND"
+	}]
+}

@@ -1,0 +1,33 @@
+https://api.quabbly.live/v1/board/62797c4d7246e40001bce6fe/record
+
+payload
+"62797c4d7246e40001bce706": ["Custom Cake"],
+			"62797c4d7246e40001bce707": ["Cash"],
+			"62797c4d7246e40001bce708": "<p>Welcome, take a look around and try our fantastic desserts!</p>",
+			"62797c4d7246e40001bce709": "<p>Thank you for your order request! We've sent the details to Tasty Buds. They will reach out with next steps.</p>\n        <p><br></p><p>If you haven't already paid, make sure to confirm their preferred payment method and complete any necessary payments to receive your order.</p>\n        <p><br></p><p>To contact Tasty Buds, contact them at:</p>\n        <ul><li>Email: jolechu3@gmail.com</li></ul>\n        \n        <p><br></p><p><b>THIS IS AN ORDER <u><i>REQUEST </i></u> - YOUR ORDER IS <u><i>NOT </i></u> COMPLETE UNTIL ACCEPTED AND CONFIRMED BY Tasty Buds. FINAL PRICING MAY DIFFER BASED ON YOUR CONVERSATION WITH THEM.</b></p><p><br></p>\n        <p>The Tasty Buds Team</p>",
+			"62797c4e7246e40001bce718": "0",
+			"62797c4e7246e40001bce716": "0",
+			"62797c4e7246e40001bce717": "0",
+			"62797c4d7246e40001bce710": "Aswathy",
+			"62797c4d7246e40001bce711": "Mahesh",
+			"62797c4e7246e40001bce71a": {
+				"address": "Thiruvananthapuram, Kerala, India",
+				"coordinates": "8.5241391, 76.9366376"
+			},
+			"62797c4e7246e40001bce71b": null,
+			"62797c4d7246e40001bce70a": null,
+			"62797c4d7246e40001bce70b": "Active",
+			"62797c4d7246e40001bce70d": "No",
+			"62797c4d7246e40001bce70e": "f8c15f7e-3e3c-4532-9225-037c2ec07879",
+			"62797c4d7246e40001bce70f": null,
+			"62797c4e7246e40001bce714": 23,
+			"62797c4e7246e40001bce715": "0",
+			"62797c4e7246e40001bce712": "USD",
+			"62797c4e7246e40001bce713": null,
+			"62797c4d7246e40001bce6ff": "VBI-14",
+			"62797c4d7246e40001bce700": "Tasty buds",
+			"62797c4d7246e40001bce701": "jolechu3@gmail.com",
+			"62797c4d7246e40001bce702": null,
+			"62797c4d7246e40001bce703": "jolechu3",
+			"62797c4d7246e40001bce704": [],
+			"62797c4d7246e40001bce705": []

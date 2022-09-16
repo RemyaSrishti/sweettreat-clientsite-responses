@@ -1,0 +1,79 @@
+	 let avaboard = await boardModel.findOne({ '_id': mongoose.Types.ObjectId("627978537246e40001bce6e5") });
+	 console.log(avaboard);
+        
+      var newAvaRecordid= parseInt(avaboard.lifetimeRecordCount)+1;
+	  var avaobj = {};
+	  avaobj['62797881833b4d0001c508d3'] = null;
+	  avaobj['627978c0833b4d0001c508d4'] = vendorId;
+	  avaobj['627978927246e40001bce6e7'] = null;
+	  avaobj['627978aee0dc3400018b5c1d'] = "Open";
+	  avaobj['62797873e0dc3400018b5c1c'] = "Sunday";
+	  let avarecord = new recordModel({ 
+        data: avaobj,
+        recordUniqueKey: avaboard.uniqueKey+"-"+newRecordid,
+        createdtime: Date.now(),
+        boardId: '627978537246e40001bce6e5'
+      });
+      let saveAvaUser = await avarecord.save();
+	  
+	  var newRecordid= parseInt(newRecordid)+1;
+	  avaobj['62797873e0dc3400018b5c1c'] = "Monday";
+	  let avarecord1 = new recordModel({ 
+        data: avaobj,
+        recordUniqueKey: avaboard.uniqueKey+"-"+newRecordid,
+        createdtime: Date.now(),
+        boardId: '627978537246e40001bce6e5'
+      });
+      let saveAvaUser1 = await avarecord1.save();
+	  
+	  var newRecordid= parseInt(newRecordid)+1;
+	  avaobj['62797873e0dc3400018b5c1c'] = "Tuesday";
+	  let avarecord2 = new recordModel({ 
+        data: avaobj,
+        recordUniqueKey: avaboard.uniqueKey+"-"+newRecordid,
+        createdtime: Date.now(),
+        boardId: '627978537246e40001bce6e5'
+      });
+      let saveAvaUser2 = await avarecord2.save();
+	  
+	  var newRecordid= parseInt(newRecordid)+1;
+	  avaobj['62797873e0dc3400018b5c1c'] = "Wednesday";
+	  let avarecord3 = new recordModel({ 
+        data: avaobj,
+        recordUniqueKey: avaboard.uniqueKey+"-"+newRecordid,
+        createdtime: Date.now(),
+        boardId: '627978537246e40001bce6e5'
+      });
+      let saveAvaUser3 = await avarecord3.save();
+	  
+	   var newRecordid= parseInt(newRecordid)+1;
+	  avaobj['62797873e0dc3400018b5c1c'] = "Thursday";
+	  let avarecord4 = new recordModel({ 
+        data: avaobj,
+        recordUniqueKey: avaboard.uniqueKey+"-"+newRecordid,
+        createdtime: Date.now(),
+        boardId: '627978537246e40001bce6e5'
+      });
+      let saveAvaUser4 = await avarecord4.save();
+	  
+	  var newRecordid= parseInt(newRecordid)+1;
+	  avaobj['62797873e0dc3400018b5c1c'] = "Friday";
+	  let avarecord5 = new recordModel({ 
+        data: avaobj,
+        recordUniqueKey: avaboard.uniqueKey+"-"+newRecordid,
+        createdtime: Date.now(),
+        boardId: '627978537246e40001bce6e5'
+      });
+      let saveAvaUser5 = await avarecord5.save();
+	  
+	  var newRecordid= parseInt(newRecordid)+1;
+	  avaobj['62797873e0dc3400018b5c1c'] = "Saturday";
+	  let avarecord6 = new recordModel({ 
+        data: avaobj,
+        recordUniqueKey: avaboard.uniqueKey+"-"+newRecordid,
+        createdtime: Date.now(),
+        boardId: '627978537246e40001bce6e5'
+      });
+      let saveAvaUser6 = await avarecord6.save();
+	  
+	  let saveAvaUser7 = await boardModel.findByIdAndUpdate({_id: mongoose.Types.ObjectId('627978537246e40001bce6e5')},{lifetimeRecordCount: newRecordid});

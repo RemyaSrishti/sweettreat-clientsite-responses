@@ -1,0 +1,401 @@
+https://sweettreat.app/pages/vendor/VBI-10
+62797c4d7246e40001bce6ff : VBI-38
+https://api.quabbly.live/v1/customer/upload_files  done
+files
+{
+  "status": "SUCCESS",
+  "data": [
+    {
+      "filename": "flower.png",
+      "size": 3274,
+      "id": "630733d8e6e35b00196371ae",
+      "created": "2022-08-25T08:33:28.145Z",
+      "mimetype": "image/png",
+      "url": "https://s3.eu-west-2.amazonaws.com/edge.world/9f2fa5dc-a21b-4554-bc86-e6fa14fd8d04/2022-08-25T08%3A33%3A27.935Z-flower.png"
+    }
+  ]
+}
+
+https://api.quabbly.live/v1/customer/board/62797c4d7246e40001bce6fe/search
+{
+  "nameField": "62797c4d7246e40001bce700",
+  "locationField": "62797c4e7246e40001bce71a",
+  "value": "srisj"
+}
+location search
+{
+  "nameField": "62797c4d7246e40001bce700",
+  "locationField": "62797c4e7246e40001bce71a",
+  "coordinate": "52.0565705 -2.7201635"
+}8.8932118, 76.6141396
+empty search result
+
+{
+  "status": "SUCCESS",
+  "data": []
+}
+search result{
+  "status": "SUCCESS",
+  "data": [
+    {
+      "id": "62e239088983ad0001e9b3e4",
+      "createdTime": "2022-07-28T07:21:44.383+00:00",
+      "lastUpdatedTime": "2022-08-23T17:55:27.854+00:00",
+      "fields": null,
+      "data": {
+        "62797c4d7246e40001bce706": [
+          "Other Dessert",
+          "Standard Cake"
+        ],
+        "62797c4d7246e40001bce707": [
+          "Card"
+        ],
+        "62797c4d7246e40001bce708": "<p>Welcome, take a look around and try our fantastic desserts!</p>",
+        "62797c4d7246e40001bce709": "<p>Thank you for your order request! We've sent the details to Mukunds Cakes. They will reach out with next steps.</p>\n        <p><br></p><p>If you haven't already paid, make sure to confirm their preferred payment method and complete any necessary payments to receive your order.</p>\n        <p><br></p><p>To contact Mukunds Cakes, contact them at:</p>\n        <ul><li>Email: mukundar.sics@gmail.com</li></ul>\n        \n        <p><br></p><p><b>THIS IS AN ORDER <u><i>REQUEST </i></u> - YOUR ORDER IS <u><i>NOT </i></u> COMPLETE UNTIL ACCEPTED AND CONFIRMED BY Mukunds Cakes. FINAL PRICING MAY DIFFER BASED ON YOUR CONVERSATION WITH THEM.</b></p><p><br></p>\n        <p>The Mukunds Cakes Team</p>",
+        "62797c4e7246e40001bce718": 0,
+        "62797c4e7246e40001bce716": 2000,
+        "62797c4e7246e40001bce717": 0,
+        "62797c4d7246e40001bce710": "Mukund",
+        "62797c4d7246e40001bce711": "A.R",
+        "62797c4e7246e40001bce71a": {
+          "address": "Thiruvananthapuram, Kerala, India",
+          "coordinates": "8.5241391, 76.9366376"
+        },
+        "62797c4e7246e40001bce71b": null,
+        "62797c4d7246e40001bce70a": null,
+        "62797c4d7246e40001bce70b": "Active",
+        "62797c4d7246e40001bce70d": "Yes",
+        "62797c4d7246e40001bce70e": "2f983e66-b284-48bd-9a9c-c09e9ca486e4",
+        "62797c4d7246e40001bce70f": null,
+        "62797c4e7246e40001bce714": 100,
+        "62797c4e7246e40001bce715": 1000,
+        "62797c4e7246e40001bce712": "AED",
+        "62797c4e7246e40001bce713": "True",
+        "62797c4d7246e40001bce6ff": "VBI-8",
+        "62797c4d7246e40001bce700": "Mukunds Cakes",
+        "62797c4d7246e40001bce701": "Mukunds",
+        "62797c4d7246e40001bce702": null,
+        "62797c4d7246e40001bce703": "mukundar.sics@gmail.com",
+        "62797c4d7246e40001bce704": [
+          {
+            "id": "62e238292fa04d00126249f3",
+            "url": "https://s3.eu-west-2.amazonaws.com/edge.world/9f2fa5dc-a21b-4554-bc86-e6fa14fd8d04/2022-07-28T07%3A18%3A01.782Z-My%20Photo.jpg",
+            "name": "my photo.jpg",
+            "type": "image/jpeg",
+            "size": 52231
+          }
+        ],
+        "62797c4d7246e40001bce705": [
+          {
+            "id": "62eb63d65c6b300019e1be6a",
+            "url": "https://s3.eu-west-2.amazonaws.com/edge.world/9f2fa5dc-a21b-4554-bc86-e6fa14fd8d04/2022-08-04T06%3A14%3A45.874Z-photo-1526547541286-73a7aaa08f2a.jpg",
+            "name": "photo-1526547541286-73a7aaa08f2a.jpg",
+            "type": "image/jpeg",
+            "size": 207587
+          }
+        ]
+      }
+    }
+  ]
+}
+
+https://api.quabbly.live/v1/customer/chart/627967acc4dd930001a7df4a
+post
+{
+  "fieldId": "62796c6fe0dc3400018b5bfd",
+  "vendorId": "VBI-8"
+}
+{
+  "status": "SUCCESS",
+  "data": [
+    {
+      "date": "Aug 01, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 02, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 03, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 04, 2022",
+      "count": 1
+    },
+    {
+      "date": "Aug 05, 2022",
+      "count": 1
+    },
+    {
+      "date": "Aug 06, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 07, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 08, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 09, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 10, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 11, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 12, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 13, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 14, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 15, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 16, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 17, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 18, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 19, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 20, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 21, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 22, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 23, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 24, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 25, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 26, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 27, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 28, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 29, 2022",
+      "count": 0
+    },
+    {
+      "date": "Aug 30, 2022",
+      "count": 0
+    }
+  ]
+}
+
+[
+  {
+    "date": "Sep 01, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 02, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 03, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 04, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 05, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 06, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 07, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 08, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 09, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 10, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 11, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 12, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 13, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 14, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 15, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 16, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 17, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 18, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 19, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 20, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 21, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 22, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 23, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 24, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 25, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 26, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 27, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 28, 2022",
+    "count": 0
+  },
+  {
+    "date": "Sep 29, 2022",
+    "count": 0
+  }
+]
+{
+  "fieldId": "62796c6fe0dc3400018b5bfd",
+  "vendorId": "VBI-8",
+  "frequency": "weekly",
+  "from": "2022-08-02",
+  "to": "2022-08-31"
+}
+[
+  {
+    "date": "Aug 02, 2022",
+    "count": 2
+  },
+  {
+    "date": "Aug 09, 2022",
+    "count": 0
+  },
+  {
+    "date": "Aug 16, 2022",
+    "count": 0
+  },
+  {
+    "date": "Aug 23, 2022",
+    "count": 0
+  }
+]
+{
+  "fieldId": "62796c6fe0dc3400018b5bfd",
+  "vendorId": "VBI-8",
+  "frequency": "monthly",
+  "from": "2022-07-01",
+  "to": "2022-09-06"
+}
+[
+  {
+    "date": "Jul 01, 2022",
+    "count": 0
+  },
+  {
+    "date": "Aug 01, 2022",
+    "count": 2
+  },
+  {
+    "date": "Sep 01, 2022",
+    "count": 1
+  }
+]
+
+
+if no order yet 
+{"status":"SUCCESS","data":[]}

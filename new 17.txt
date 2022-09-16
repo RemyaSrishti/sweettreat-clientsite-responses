@@ -1,0 +1,9 @@
+On My Availability Setting,
+https://api.quabbly.live/v1/board/627978537246e40001bce6e5/record/62f644a7384e2700016e0ce6
+
+updateSingleFieldInRecord=>`${environment.backendUrl}/board/${boardId}/record/${recordId}` this is the above api.
+
+Payload=>
+{"boardId":"627978537246e40001bce6e5","recordId":"62f644a7384e2700016e0ce6","metadata":[{"fieldId":"62797881833b4d0001c508d3","value":"12:00:PM"}]}
+
+{"status":"SUCCESS","paymentInfo":null,"record":{"id":"62f644a7384e2700016e0ce6","recordUniqueKey":"AVA-106","createdTime":1660306599474,"lastUpdatedTime":1660309262051,"lastUpdatedBy":"f8c15f7e-3e3c-4532-9225-037c2ec07879","userName":null,"comments":[],"data":{"62797881833b4d0001c508d3":"12:00:PM","627978c0833b4d0001c508d4":"VBI-14","627978927246e40001bce6e7":null,"627978aee0dc3400018b5c1d":"Open","62797873e0dc3400018b5c1c":"Saturday"}},"columnList":null,"fieldsWithRecordValues":null,"responseEntity":null,"message":""}

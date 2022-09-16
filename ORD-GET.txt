@@ -1,0 +1,46 @@
+https://api.quabbly.live/v1/customer/board/627967acc4dd930001a7df4a/records/62ecf3e58983ad0001e9b421
+method get
+ORD
+{
+  "status": "SUCCESS",
+  "data": {
+    "id": "62ecf3e58983ad0001e9b421",
+    "createdTime": "2022-08-05T10:41:41.648+00:00",
+    "lastUpdatedTime": "2022-08-10T12:11:12.827+00:00",
+    "fields": null,
+    "data": {
+      "6279697f833b4d0001c508b9": "2022-08-05 10:41:41",
+      "627972d47246e40001bce6da": "2022-08-05 10:41:41",
+      "627978127246e40001bce6e2": {
+        "parentRecordId": "62e239088983ad0001e9b3e4",
+        "parentFieldId": "62797c4d7246e40001bce70c",
+        "topmostRecordId": "62e239088983ad0001e9b3e4",
+        "topmostFieldId": "62797c4d7246e40001bce70c",
+        "topmostValue": "",
+        "type": "ltr"
+      },
+      "627969637246e40001bce6c5": "CUS1-17",
+      "627972bfc4dd930001a7df61": {
+        "parentRecordId": "62e239088983ad0001e9b3e4",
+        "parentFieldId": "62797c4d7246e40001bce709",
+        "topmostRecordId": "62e239088983ad0001e9b3e4",
+        "topmostFieldId": "62797c4d7246e40001bce709",
+        "topmostValue": "<p>Thank you for your order request! We've sent the details to Mukunds Cakes. They will reach out with next steps.</p>\n        <p><br></p><p>If you haven't already paid, make sure to confirm their preferred payment method and complete any necessary payments to receive your order.</p>\n        <p><br></p><p>To contact Mukunds Cakes, contact them at:</p>\n        <ul><li>Email: mukundar.sics@gmail.com</li></ul>\n        \n        <p><br></p><p><b>THIS IS AN ORDER <u><i>REQUEST </i></u> - YOUR ORDER IS <u><i>NOT </i></u> COMPLETE UNTIL ACCEPTED AND CONFIRMED BY Mukunds Cakes. FINAL PRICING MAY DIFFER BASED ON YOUR CONVERSATION WITH THEM.</b></p><p><br></p>\n        <p>The Mukunds Cakes Team</p>",
+        "type": "ltr"
+      },
+      "627967f77246e40001bce6c3": "Other",
+      "62797309c4dd930001a7df62": "Complete",
+      "627977e1833b4d0001c508d2": 0,
+      "62796924e0dc3400018b5bec": "2022-08-11",
+      "62796c6fe0dc3400018b5bfd": {
+        "parentRecordId": "62e239088983ad0001e9b3e4",
+        "parentFieldId": "62797c4d7246e40001bce6ff",
+        "topmostRecordId": "62e239088983ad0001e9b3e4",
+        "topmostFieldId": "62797c4d7246e40001bce6ff",
+        "topmostValue": "VBI-8",
+        "type": "ltr"
+      },
+      "627967bf7246e40001bce6c2": "ORD-43"
+    }
+  }
+}
